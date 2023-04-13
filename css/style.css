@@ -1,0 +1,39 @@
+main {
+    display: flex;
+}
+
+.aside {
+    width: 800px;
+    background-color: #003D73 !important; 
+}
+
+.transform-heavy {
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+.transform-light {
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.banner {
+    background-color: #00315C;
+    vertical-align: center;
+}
+
+a {
+    color: #fff !important;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #eee;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #fff;
+    text-decoration: none;
+}
+
